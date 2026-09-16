@@ -1,0 +1,6 @@
+.env
+.venv/
+playwright/.auth/
+playwright/automation-profile/
+__pycache__/
+*.pyc
